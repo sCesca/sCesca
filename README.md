@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Samuel Cesca</h1>
 <h3 align="center">A future Full-Stack developer from Brazil</h3>
-<img align="right" alt="Coding" width="800" src"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fsource.gif&f=1&nofb=1&ipt=7790390e2abe2d6423b086f323e7a8def9ae5f3a39d43535b2a72b39f65cf509&ipo=images">
+<img align="right" alt="Coding" width="800" src"[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F11jacPItBsJDLa%2Fsource.gif&f=1&nofb=1&ipt=7790390e2abe2d6423b086f323e7a8def9ae5f3a39d43535b2a72b39f65cf509&ipo=images](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scesca&label=Profile%20views&color=0e75b6&style=flat" alt="scesca" /> </p>
 

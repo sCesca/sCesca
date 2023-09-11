@@ -1,4 +1,4 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:960/1*bkW3FHe6rvQSz9US6ilfQg.gif)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F76%2Fda%2F56%2F76da56c64e2ef8ac0f4372be663c76cd.gif&f=1&nofb=1&ipt=9887b03fe6ecd7592802a509d8bd5038a8cd14d47a6ee4ee48003e308742affe&ipo=images)](https://rishavchanda.io)
+[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fardas-it.com%2Fuploads%2Fimages%2Fblogs%2Fgiph.gif&f=1&nofb=1&ipt=ca8fe527f06f3cd8af1d9743b58d3537529dcb723a7a9b879e573b5f9ffaca39&ipo=images)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Samuel Cesca</h1>
 <h3 align="center">A future Full-Stack developer from Brazil</h3>
 

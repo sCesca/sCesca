@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scesca&show_icons=true&locale=en&layout=compact" alt="scesca" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scesca&show_icons=true&locale=en" alt="scesca" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scesca&" alt="scesca" /></p>

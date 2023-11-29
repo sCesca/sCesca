@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Cesca</h1>
 <h3 align="center">A future Full-Stack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scesca&label=Profile%20views&color=0e75b6&style=flat" alt="scesca" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scesca" alt="scesca" /></a> </p>
-
 - 🔭 I’m currently working on [Hybrid mobile app](https://www.embrapa.br/)
 
 - 🌱 I’m currently learning **React Native, TypeScript and NodeJS**

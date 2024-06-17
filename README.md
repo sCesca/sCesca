@@ -18,4 +18,4 @@
 <a href="https://instagram.com/@samucesca" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@samucesca" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=scesca&show_icons=true&locale=en&layout=compact" alt="scesca" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scesca&show_icons=true&locale=en&layout=compact" alt="scesca" /></p>

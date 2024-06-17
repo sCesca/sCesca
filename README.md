@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Samuel Cesca</h1>
 <h3 align="center">A future Full-Stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Hybrid mobile app](https://www.embrapa.br/)
+- 🌱 I’m currently learning **Python and Data Science**
 
-- 🌱 I’m currently learning **React Native, TypeScript and NodeJS**
-
-- 👯 I’m looking to collaborate on **React Native, C/C++ and Java projects**
+- 👯 I’m looking to collaborate on **React Native, C/C++ and Python Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sCesca?tab=repositories](https://github.com/sCesca?tab=repositories)
 
-- 💬 Ask me about **C/C++ and React Native**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **samuel1cesca@gmail.com**
 

@@ -1,6 +1,5 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fardas-it.com%2Fuploads%2Fimages%2Fblogs%2Fgiph.gif&f=1&nofb=1&ipt=ca8fe527f06f3cd8af1d9743b58d3537529dcb723a7a9b879e573b5f9ffaca39&ipo=images)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Samuel Cesca</h1>
-<h3 align="center">A future Full-Stack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Python and Data Science**
 
